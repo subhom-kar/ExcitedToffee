@@ -1,0 +1,23 @@
+const db = {
+  the: { chunks: ['th', 'e'], phones: ['DH', 'AH'] },
+  and: { chunks: ['a', 'n', 'd'], phones: ['AH', 'N', 'D'] },
+  to: { chunks: ['t', 'o'], phones: ['T', 'UW'] },
+  a: { chunks: ['a'], phones: ['AH'] },
+  is: { chunks: ['i', 's'], phones: ['IH', 'Z'] },
+  on: { chunks: ['o', 'n'], phones: ['AA', 'N'] },
+  that: { chunks: ['th', 'a', 't'], phones: ['DH', 'AE', 'T'] },
+  by: { chunks: ['b', 'y'], phones: ['B', 'AY'] },
+  i: { chunks: ['i'], phones: ['AY'] },
+  you: { chunks: ['y', 'ou'], phones: ['Y', 'UW'] },
+  it: { chunks: ['i', 't'], phones: ['IH', 'T'] },
+  not: { chunks: ['n', 'o', 't'], phones: ['N', 'AA', 'T'] },
+  or: { chunks: ['o', 'r'], phones: ['AO', 'R'] },
+  be: { chunks: ['b', 'e'], phones: ['B', 'IY'] },
+  are: { chunks: ['a', 're'], phones: ['AA', 'R'] },
+  at: { chunks: ['a', 't'], phones: ['AE', 'T'] },
+  as: { chunks: ['a', 's'], phones: ['AE', 'Z'] },
+  your: { chunks: ['y', 'ou', 'r'], phones: ['Y', 'AO', 'R'] },
+  all: { chunks: ['a', 'll'], phones: ['AO', 'L'] },
+  have: { chunks: ['h', 'a', 've'], phones: ['HH', 'AE', 'V'] },
+};
+export default db;
